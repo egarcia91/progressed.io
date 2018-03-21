@@ -12,7 +12,7 @@ http://progressed.io/bar/58
 ![Progress](http://progressed.io/bar/58)   
 
 http://progressed.io/bar/59?title=completed
-![Progress](http://progressed.io/bar/58?title=completed)  
+![Progress](http://progressed.io/bar/59?title=completed)  
 
 http://progressed.io/bar/91
 ![Progress](http://progressed.io/bar/91)  
